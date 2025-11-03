@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Mattia Jorgen Prugnoli
 
-<!--
-**iTzMattyz/iTzMattyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer** at [Snap4City](https://www.snap4city.org)  
+🌍 Building **Smart City & IoT** platforms that turn data into insight  
+⚡ Passionate about **real-time systems**, **urban data**, and **open-source innovation**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I'm a computer engineer working on the full software stack — from backend APIs and data pipelines to front-end dashboards and mobile interfaces.  
+At Snap4City, I help shape a platform that integrates thousands of IoT devices, city datasets, and analytics workflows into tools used by citizens, researchers, and municipalities.
+
+I believe great code should **simplify complexity** — especially when that complexity is an entire city.
+
+---
+
+### 🧠 What I Work With
+**Frontend:** Flutter · Kotlin · TypeScript · React · HTML/CSS  
+**Backend:** Node.js · Python · REST APIs · MQTT · Java  
+**Data:** PostgreSQL · MySQL · JSON · IoT Data Integration  
+**DevOps:** Docker · Linux · Git · CI/CD  
+**Domains:** Smart Cities · IoT · GIS · Data Visualization · Cloud Services
+
+---
+
+### 🌱 Currently Exploring
+- Improving geospatial visualization in urban dashboards  
+- Making IoT data pipelines more efficient and scalable  
+- Integrating AI/ML models for anomaly detection in Smart City data streams  
+
+---
+
+### 🏙️ Featured Work
+- 🛰️ **IoT Data Integration:** Connected and visualized heterogeneous sensors (parking, air quality, energy) for live dashboards  
+- 📊 **Smart City Dashboards:** Developed responsive web/mobile UIs for data monitoring and analytics  
+- 🔐 **Secure APIs:** Built and maintained RESTful services with GDPR-compliant authentication  
+
+---
+
+### 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia%20Prugnoli-blue?logo=linkedin)](https://www.linkedin.com/in/mattia-prugnoli/)  
+[![Snap4City](https://img.shields.io/badge/Snap4City-Platform-orange?logo=city)](https://www.snap4city.org)  
+[![GitHub](https://img.shields.io/github/followers/mattiaprugnoli?label=Follow%20me&style=social)](https://github.com/mattiaprugnoli)
+
+---
+
+> *"Technology is most powerful when it makes cities — and lives — more human."*
+
