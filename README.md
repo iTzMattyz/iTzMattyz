@@ -1,78 +1,48 @@
-👋 Ciao! / Hi! I'm **Mattia Jorgen Prugnoli**  
-💻 Full Stack Developer | Computer Engineer @ [Snap4City](https://www.snap4city.org)  
-🎓 B.Eng. in Computer Engineering | Focused on Smart City Systems, IoT & Data Integration  
+# 👋 Hi, I'm Mattia Jorgen Prugnoli
+
+💻 **Full Stack Developer** at [Snap4City](https://www.snap4city.org)  
+🌍 Building **Smart City & IoT** platforms that turn data into insight  
+⚡ Passionate about **real-time systems**, **urban data**, and **open-source innovation**
 
 ---
 
-🌍 **About Me / Su di Me**
+### 🚀 About Me
+I'm a computer engineer working on the full software stack — from backend APIs and data pipelines to front-end dashboards and mobile interfaces.  
+At Snap4City, I help shape a platform that integrates thousands of IoT devices, city datasets, and analytics workflows into tools used by citizens, researchers, and municipalities.
 
-🇬🇧 **View in English**
-
-I’m a Computer Engineer and Full Stack Developer currently working at **Snap4City**, an open-source platform for **Smart City and IoT innovation**.  
-My work involves building scalable systems that connect real-world sensors, data streams, and dashboards to help cities become more efficient, sustainable, and data-driven.
-
-During my career, I’ve developed experience in:  
-- **Frontend & Mobile Development:** Flutter, Kotlin, and responsive UI design for interactive dashboards.  
-- **Backend Engineering:** Node.js, Python, and RESTful APIs for data ingestion and interoperability.  
-- **IoT Integration & Data Processing:** Working with real-time data streams (MQTT, WebSockets) and large urban datasets.  
-- **DevOps & Deployment:** Dockerized microservices, Linux environments, and secure cloud deployments.  
-- **Data Visualization & GIS:** Integrating geospatial data and analytics for mobility, energy, and environmental applications.  
-
-I’m driven by the idea that **technology can make urban life more human**, and I love transforming complex data into tools that improve how cities think, move, and breathe.
+I believe great code should **simplify complexity** — especially when that complexity is an entire city.
 
 ---
 
-🇮🇹 **Visualizza in Italiano**
-
-Sono un Ingegnere Informatico e Full Stack Developer che lavora presso **Snap4City**, piattaforma open-source dedicata alle **Smart City e all’IoT**.  
-Mi occupo di progettare e sviluppare applicazioni web e mobile che integrano sensori, flussi dati in tempo reale e dashboard interattive per supportare la gestione e l’innovazione urbana.
-
-Durante la mia esperienza professionale ho acquisito competenze in:  
-- **Sviluppo Frontend e Mobile:** Flutter, Kotlin e design responsivo per dashboard interattive.  
-- **Ingegneria Backend:** Node.js, Python e API RESTful per ingestione dati e interoperabilità.  
-- **Integrazione IoT e Gestione Dati:** Streaming in tempo reale (MQTT, WebSocket) e dataset urbani eterogenei.  
-- **DevOps e Deployment:** Microservizi Docker, ambienti Linux e deploy sicuri in cloud.  
-- **Visualizzazione Dati e GIS:** Integrazione di dati geospaziali e analisi per mobilità, energia e ambiente.  
-
-Credo che la **tecnologia debba rendere le città più vivibili**, e mi appassiona trasformare i dati complessi in strumenti utili per cittadini e istituzioni.
+### 🧠 What I Work With
+**Frontend:** Flutter · Kotlin · TypeScript · React · HTML/CSS  
+**Backend:** Node.js · Python · REST APIs · MQTT · Java  
+**Data:** PostgreSQL · MySQL · JSON · IoT Data Integration  
+**DevOps:** Docker · Linux · Git · CI/CD  
+**Domains:** Smart Cities · IoT · GIS · Data Visualization · Cloud Services
 
 ---
 
-💡 **Core Interests / Interessi Principali**
-
-| 🇬🇧 English | 🇮🇹 Italiano |
-|-------------|-------------|
-| 🏙️ **Smart City Development:** Designing digital ecosystems for connected cities. | 🏙️ **Sviluppo Smart City:** Progettare ecosistemi digitali per città connesse. |
-| 🛰️ **IoT Systems Integration:** Connecting sensors, APIs & real-time data streams. | 🛰️ **Integrazione IoT:** Collegare sensori, API e flussi dati in tempo reale. |
-| 💻 **Full Stack Engineering:** Building web & mobile apps with modern tech stacks. | 💻 **Ingegneria Full Stack:** Sviluppare app web e mobile con stack moderni. |
-| 📊 **Data Visualization & GIS:** Creating insightful dashboards and maps. | 📊 **Visualizzazione Dati & GIS:** Creare dashboard e mappe intuitive. |
-| 🔐 **Security & Privacy:** Developing GDPR-compliant systems for public data. | 🔐 **Sicurezza & Privacy:** Realizzare sistemi conformi al GDPR per dati pubblici. |
+### 🌱 Currently Exploring
+- Improving geospatial visualization in urban dashboards  
+- Making IoT data pipelines more efficient and scalable  
+- Integrating AI/ML models for anomaly detection in Smart City data streams  
 
 ---
 
-⚙️ **Technologies & Tools / Tecnologie e Strumenti**
-
-**💻 Programming Languages:** Kotlin · Dart · JavaScript/TypeScript · Python · Java  
-**🧩 Frameworks & Libraries:** Flutter · React · Node.js · Express · Material Design  
-**🗄️ Databases:** PostgreSQL · MySQL · SQLite · JSON · IoT data stores  
-**🧰 DevOps & Tools:** Docker · Linux · Git · CI/CD · API Testing (Postman)  
-**🌐 Domains:** Smart Cities · IoT · GIS · Data Integration · Urban Analytics  
+### 🏙️ Featured Work
+- 🛰️ **IoT Data Integration:** Connected and visualized heterogeneous sensors (parking, air quality, energy) for live dashboards  
+- 📊 **Smart City Dashboards:** Developed responsive web/mobile UIs for data monitoring and analytics  
+- 🔐 **Secure APIs:** Built and maintained RESTful services with GDPR-compliant authentication  
 
 ---
 
-📈 **GitHub Stats / Statistiche GitHub**
-
-![Mattia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattiaprugnoli&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiaprugnoli&layout=compact&theme=radical)
-
----
-
-📫 **How to Reach Me / Come Contattarmi**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia%20Jorgen%20Prugnoli-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-jorgen-prugnoli-853169180/)  
-[![Snap4City](https://img.shields.io/badge/Snap4City-Platform-orange?logo=city&logoColor=white)](https://www.snap4city.org)  
-[![GitHub](https://img.shields.io/github/followers/mattiaprugnoli?label=Follow%20me&style=social)](https://github.com/mattiaprugnoli)
+### 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia%20Jorgen%20Prugnoli-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-jorgen-prugnoli-853169180/) 
+[![Snap4City](https://img.shields.io/badge/Snap4City-Platform-orange?logo=city)](https://www.snap4city.org)  
+[![GitHub](https://img.shields.io/github/followers/mattiaprugnoli?label=Follow%20me&style=social)](https://github.com/iTzMattyz)
 
 ---
 
-> *“I build software that helps cities understand themselves — bridging data, people, and technology.”*
+> *"Technology is most powerful when it makes cities — and lives — more human."*
+
