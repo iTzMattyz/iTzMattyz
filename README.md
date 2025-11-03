@@ -38,7 +38,7 @@ I believe great code should **simplify complexity** — especially when that com
 ---
 
 ### 💬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia%20Prugnoli-blue?logo=linkedin)]((https://www.linkedin.com/in/mattia-jorgen-prugnoli-853169180/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia%20Jorgen%20Prugnoli-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-jorgen-prugnoli-853169180/) 
 [![Snap4City](https://img.shields.io/badge/Snap4City-Platform-orange?logo=city)](https://www.snap4city.org)  
 [![GitHub](https://img.shields.io/github/followers/mattiaprugnoli?label=Follow%20me&style=social)](https://github.com/iTzMattyz)
 
